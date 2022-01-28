@@ -1,3 +1,9 @@
+## Olá, sou Joely Brito 🥰
+
+#### Iniciei recentemente meus estudos em programação, sempre tive curiosidade por tecnologia e como as coisas realmente acontecem na prática. Atualmente faço parte do programa <a href="https://desenvolve.grupoboticario.com.br/" target="_blank">Desenvolve do Grupo Boticário</a>. Tenho como meta utilizar o desenvolvimento de software para construir soluções que agregam valor para as pessoas e para o mundo 🌎.
+
+
+
 - 👋 Hi, I’m @Joely-Brito
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
